@@ -1,0 +1,17 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongojs": "*",
+    "nodemon": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Yogi",
+  "license": "ISC"
+}
